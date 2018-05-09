@@ -75,3 +75,5 @@ opm install gui
 <img src="https://github.com/Tavalik/Perezalivator/raw/master/Screenshots/Perezalivator4.png" alt="Скриншот4">
 
 Отработав, Перезаливатор выдаст соответствующее сообщение (или сообщение об ошибке), а также отправит сообщение о результате работы на электронную почту.
+
+<img src="https://github.com/Tavalik/Perezalivator/raw/master/Screenshots/Perezalivator5.png" alt="Скриншот5">
