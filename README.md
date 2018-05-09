@@ -22,8 +22,7 @@
 
 Имеется GUI-интерфейс для выбора базы-приемника и базы-назначения:
 
-![](//https://github.com/Tavalik/Perezalivator/raw/master/Screenshots/Perezalivator5.png)
-
+<img src="https://github.com/Tavalik/Perezalivator/raw/master/Screenshots/Perezalivator5.png" alt="Скриншот">
 
 ## Установка
 
