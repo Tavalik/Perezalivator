@@ -22,24 +22,29 @@
 
 Имеется GUI-интерфейс для выбора базы-приемника и базы-назначения:
 
+![](//https://github.com/Tavalik/Perezalivator/raw/master/Screenshots/Perezalivator5.png)
+
 
 ## Установка
 
 ### Зависимости  
 
 Необходима библиотека **json**: https://github.com/oscript-library/json
+
 Установка:
 ``` cmd
 opm install json
 ```
 
 Необходима библиотека **gui**: https://github.com/oscript-library/oscript-simple-gui
+
 Установка:
 ``` cmd
 opm install gui
 ```
 
 Необходим набор библиотек **TLib** : https://github.com/Tavalik/OS_TScripts/tree/master/Tlib
+
 Установка копированием каталога Tlib в каталог библиотек (по умолчанию в C:\Program Files (x86)\OneScript\lib)
 
 ### Установка приложения
