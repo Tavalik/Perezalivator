@@ -1,3 +1,5 @@
+@echo off
+
 set dir=%CD%
 set oscriptrun=oscript.exe
 
