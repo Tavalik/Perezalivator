@@ -2,6 +2,6 @@
 
 set dir=%CD%
 
-call %dir%\Perezalivator_Run.bat -test
+call "%dir%\Perezalivator_Run.bat" -test
 
 pause
