@@ -30,6 +30,7 @@ opm install -f <Путь к файлу Perezalivator-<версия>.ospx>
 Зависит от:
 * Библиотеки **json**: https://github.com/oscript-library/json
 * Библиотеки **gui**: https://github.com/oscript-library/oscript-simple-gui
+* Библиотеки **TMSSQL**: https://github.com/Tavalik/TMSSQL
 * Библиотеки **TRun1C**: https://github.com/Tavalik/TRun1C
 * Библиотеки **TMail**: https://github.com/Tavalik/TMail
 * Библиотеки **TLog**: https://github.com/Tavalik/TLog
